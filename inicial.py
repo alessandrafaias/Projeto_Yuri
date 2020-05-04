@@ -17,4 +17,5 @@ while i < len(f):
 	print (f[i])
 	i += 1
 
-print("Outro teste para aprender GitHub")
+
+	print("Isso é um outro teste")
